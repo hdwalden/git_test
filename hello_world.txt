@@ -1,2 +1,2 @@
 
-Bene, questo è un file di testo che sto modificando per fare partica con git.
+Bene, questo è un file di testo che sto modificando per fare pratica con git.
